@@ -20,7 +20,7 @@ class age {
       print("Your Total Left age is $Totalage");
     }
   }
-}
+}                                    
 
 void main() {
   final obj = age();
